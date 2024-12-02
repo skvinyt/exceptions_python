@@ -1,0 +1,11 @@
+Exception occurred: DrunkError: You are drunk.
+Exception occurred: CarCrashError: You have been in a car crash.
+Exception occurred: KillError: You have been killed.
+Exception occurred: GluttonyError: You have overeaten.
+Exception occurred: GluttonyError: You have overeaten.
+Exception occurred: KillError: You have been killed.
+Exception occurred: GluttonyError: You have overeaten.
+Exception occurred: KillError: You have been killed.
+Exception occurred: GluttonyError: You have overeaten.
+Exception occurred: DepressionError: You are depressed.
+Exception occurred: KillError: You have been killed.
